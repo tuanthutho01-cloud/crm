@@ -1,0 +1,7 @@
+{
+  "name": "CRM",
+  "description": "A comprehensive mobile-first CRM and sales management tool for tracking customers, products, sales, and debts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
